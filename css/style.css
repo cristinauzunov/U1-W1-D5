@@ -46,9 +46,7 @@ footer p{
     font-size:15px;
 }
 span{
-    text-decoration: underline;
-    color: white;
-}
+    text-decoration: underline white;}
 
 #red{
     background-color:#e22d0e ;
