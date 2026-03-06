@@ -1,0 +1,110 @@
+body{
+    width: 1920px;
+    height: 1360px;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    line-height:1,5em;
+    color: #393d41;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+
+}
+   
+
+header{
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+#testa{
+    color: #393d41; 
+    text-align: center;
+    background-image:url(../banner.jpg);
+    background-size: contain;   
+    line-height: 2em;
+    padding-top: 10px;
+}
+.partiamo{
+    background-color:#f04c2f;
+    color: white;
+    border-color: #f04c2f;
+    outline:none;
+}
+
+h1{
+    font-weight: bold;
+}
+h1, h3{
+    color: #25a2c3;
+}
+
+footer p{
+    font-size:15px;
+}
+span{
+    text-decoration: underline;
+    color: white;
+}
+
+#red{
+    background-color:#e22d0e ;
+    color:white ;
+    padding:20px ;
+    text-align: center;
+}
+
+.notebook{
+    width: 400px;
+    height:400px;
+   border-radius: 50%;
+   float: left;
+   margin-right:1px ;
+   margin-bottom: 1px;
+   padding-left: 0%;
+}
+.contenitore{
+    width: 100%;
+    float: right;
+}
+.immagine-destra{
+    float: right;
+    margin-left: 15px;
+    margin bottom: 10px;
+}
+
+.container{
+    text-align: center;
+    width: 100%;
+}
+.box{
+    display: inline-block;
+    width: 30%;
+    margin: 1,5%;
+    vertical-align: text-bottom;
+    box-sizing: border-box;
+}
+.box img{
+    max-width: 50%;
+    height: auto;
+}
+.foto1{
+    display:inline-block;
+    width:300px;
+    margin:25px;
+    height: auto;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #25a2c3;
+    color: white;
+}
+   
+hr{
+    width: 50%;
+}
